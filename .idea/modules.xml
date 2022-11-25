@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AppRetrofit.iml" filepath="$PROJECT_DIR$/.idea/modules/AppRetrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AppRetrofit.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AppRetrofit.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AppRetrofit.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AppRetrofit.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AppRetrofit.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AppRetrofit.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AppRetrofit.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AppRetrofit.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

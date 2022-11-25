@@ -1,0 +1,6 @@
+package com.example.appretrofit.models
+
+data class Support(
+    val text: String? = null,
+    val url: String? = null
+)
